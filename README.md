@@ -1,6 +1,4 @@
-Here's a professional and structured `README.md` file for your gesture and voice-controlled application. This README provides an overview of your project, setup instructions, usage details, and sections where you can later add workflow and output images.
 
----
 
 ```markdown
 # 🖐️🎤 Gesture and Voice-Controlled Application

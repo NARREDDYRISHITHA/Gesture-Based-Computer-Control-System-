@@ -92,18 +92,14 @@ Press `q` to quit the application.
 ---
 
 ## 📸 Output Examples
+![WhatsApp Image 2025-06-04 at 6 46 28 PM](https://github.com/user-attachments/assets/82cd43ab-122f-4e3f-ae12-ce31813c427d)
 
-![WhatsApp Image 2025-05-29 at 09 04 58_35bbf74b](https://github.com/user-attachments/assets/3e712450-1c1d-4e2b-8b86-fa19868f96d2)
+![WhatsApp Image 2025-06-04 at 6 46 28 PM (1)](https://github.com/user-attachments/assets/155a7b60-fcdb-41f0-b57e-b92a9847c832)
+
+
 ![WhatsApp Image 2025-05-29 at 09 04 58_82af3a6f](https://github.com/user-attachments/assets/43540dc1-e68f-40fb-a39b-cf0c1f9544ba)
 
-
-### Volume Control Gesture
-
-![Volume Control](images/volume_control.png)
-
-### Tab Switch Gesture
-
-![Tab Switch](images/tab_switch.png)
+![WhatsApp Image 2025-05-29 at 09 04 58_35bbf74b](https://github.com/user-attachments/assets/3e712450-1c1d-4e2b-8b86-fa19868f96d2)
 
 ---
 
